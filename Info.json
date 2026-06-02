@@ -1,12 +1,22 @@
-{"Name":"快速建造",
-"DisplayName":"快速建造",
-"GameVersion":0.95301,
-"Version":1.0,
-"Desc":"[作者]\r\n    tefeink\r\n[简介]\r\n开局进入游戏之后自动开启快速建造模式，建筑党可以尽情发挥了。",
-"Author":"TEFEINK",
-"UIPackage":null,
-"ID":"1821877697",
-"Flag":767764730,
-"Tags":["Usability"],
-"IncreasedDesc":"",
-"IsInsideCreat":false}
+﻿{
+  "LastRelease": null,
+  "LoadInfo": false,
+  "Name": "โหมดก่อสร้างด่วน",
+  "DisplayName": "โหมดก่อสร้างด่วน",
+  "GameVersion": 0.95301,
+  "Version": "v.1",
+  "Desc": "[ผู้สร้าง] tefeink [คำอธิบาย] เมื่อเริ่มเกม ระบบจะเปิดโหมดก่อสร้างอย่างรวดเร็ว (Fast Build Mode) ให้อัตโนมัติ เหมาะสำหรับสายสร้างสำนักหรือสายก่อสร้าง สามารถออกแบบและสร้างสิ่งปลูกสร้างได้อย่างเต็มที่"
+  "Author": "TEFEINK",
+  "UIPackage": null,
+  "ID": "1",
+  "Flag": 767764730,
+  "Tags": [
+    "Usability"
+  ],
+  "IncreasedDesc": "โหมดก่อสร้างด่วน",
+  "IsInsideCreat": false,
+  "Previews": null,
+  "Dependencies": null,
+  "Url": "https://github.com/xaouxaou009-debug/instant-construction-mod",
+  "VersionValue": 1.0
+}
